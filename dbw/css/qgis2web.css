@@ -23,7 +23,6 @@
         }
         .leaflet-popup-content {
             width:auto;
-            padding-right:80vh;
         }
         .leaflet-tooltip {
             background: none;
